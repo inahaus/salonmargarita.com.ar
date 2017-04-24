@@ -665,6 +665,10 @@ blockquote {
   color: #000;
 }
 
+.link.creditos:hover {
+  color: #fff;
+}
+
 .success-bg {
   padding-top: 17px;
   border-radius: 30px;
@@ -825,6 +829,7 @@ blockquote {
 .creditos {
   padding-top: 10px;
   padding-bottom: 10px;
+  font-family: Lato, sans-serif;
   color: hsla(0, 0%, 100%, .49);
 }
 
